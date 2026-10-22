@@ -1,3 +1,5 @@
+This repository contains the codes for the quantitative analysis and parameter extraction of the Metal-Oxide NanoWire connected via a back-to-back Schottky diodes configuration, described in the work "Quantitative analysis of Current-Voltage-Temperature characteristics of metal-oxide nanowires", by Ivan De Carlo, Davide Cipollini, Matteo Fretto, Luca Boarino, Andrea Lamberti and Gianluca Milano, Journal of Physics D: Applied Physics (2026), DOI: 10.1088/1361-6463/aeb6ff 
+
 # MSM I–V model: guide to the three scripts
 
 These scripts model current through a nanowire between two Schottky contacts. You can either calculate a curve from known parameters or fit parameters from measured curves.
